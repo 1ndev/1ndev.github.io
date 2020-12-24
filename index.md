@@ -1,7 +1,7 @@
 ## Welcome to the Indev Webpage
 
 Currently the only download available is A.S.G.A.F.A. (Alpha Release)
-[Link](Download here)
+[Link](asgafa/alpha/)
 
 ### Part 2 - Everything down here is a website template lol
 
