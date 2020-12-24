@@ -1,6 +1,6 @@
 layout: page
 title: "A.S.G.A.F.A. Alpha Download"
-permalink: /asgafa/alpha
+permalink: /asgafa/alpha/
 
 # testing
 
