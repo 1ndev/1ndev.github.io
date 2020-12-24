@@ -1,7 +1,8 @@
-layout: page
-title: "A.S.G.A.F.A. Alpha Download"
-permalink: /asgafa/alpha/
-
+---
+layout: template
+title: A.S.G.A.F.A. Alpha Download
+filename: asgafa-download.md
+---
 # testing
 
 ## testing
