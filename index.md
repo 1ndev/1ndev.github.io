@@ -3,7 +3,7 @@
 Currently the only download available is A.S.G.A.F.A. (Alpha Release)
 [Link](Download here)
 
-### Part 2
+### Part 2 - Everything down here is a website template lol
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
