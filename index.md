@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to the Indev Webpage
 
-You can use the [editor on GitHub](https://github.com/1ndev/1ndev.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Currently the only download available is A.S.G.A.F.A. (Alpha Release)
+[Link](Download here)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Part 2
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
